@@ -1,8 +1,6 @@
 header{background-color: #264653;
        margin-bottom: 16px;}
 
-/* google font style  */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 
 
 .grayscale-1{
@@ -12,12 +10,10 @@ header{background-color: #264653;
 .grayscale-2{
     filter:opacity(80%);
 }
-/* #coustom-img{border: 3px solid black;
-             background-color: blue;
-             border-radius: 100%;
-             padding: 0;
-             margin: 0;
-             } */
+
+/* contact section backround  */
+.contact-section{background-color:rgb(43, 41, 58) ;}
+
 
                
 
