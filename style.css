@@ -2,7 +2,7 @@ header{background-color: #264653;
        margin-bottom: 16px;}
 
 
-
+/* picture grayscaling  */
 .grayscale-1{
     filter: grayscale(100%);
 }
@@ -14,7 +14,9 @@ header{background-color: #264653;
 /* contact section backround  */
 .contact-section{background-color:rgb(43, 41, 58) ;}
 
+/* footer backround  */
 
+footer{background-color: #264653; ;}
                
 
                
